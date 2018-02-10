@@ -1,0 +1,229 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "PictureBotLuisModel",
+  "desc": "Este es el modelo de comprensión lingüística para el PictureBot",
+  "culture": "es-es",
+  "intents": [
+    {
+      "name": "BusquedaFotos"
+    },
+    {
+      "name": "CompartirFoto"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "OrdenarFoto"
+    },
+    {
+      "name": "Saludo"
+    }
+  ],
+  "entities": [
+    {
+      "name": "faceta"
+    },
+    {
+      "name": "Me gustaría"
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "hola",
+      "intent": "Saludo",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Saludo",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Saludo",
+      "entities": []
+    },
+    {
+      "text": "que tal",
+      "intent": "Saludo",
+      "entities": []
+    },
+    {
+      "text": "encuentra fotos al aire libre",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 19,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "¿hay fotos de un tren?",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 17,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "encuentra imágenes de comida.",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 22,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "buscar fotos de un niño de 6 meses",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 19,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "por favor, dame fotos de mujeres de 20 años",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 25,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "muéstrame fotos de la playa",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 22,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "quiero encontrar fotos de perros",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 26,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "muéstrame fotos de chicas que se ven felices",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 19,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "quiero ver fotos de chicos tristes",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 20,
+          "endPos": 25
+        }
+      ]
+    },
+    {
+      "text": "muéstrame fotos del bebé",
+      "intent": "BusquedaFotos",
+      "entities": [
+        {
+          "entity": "faceta",
+          "startPos": 20,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "compartir esta foto",
+      "intent": "CompartirFoto",
+      "entities": [
+        {
+          "entity": "Me gustaría",
+          "startPos": 0,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "¿puedes tuitear eso?",
+      "intent": "CompartirFoto",
+      "entities": [
+        {
+          "entity": "Me gustaría",
+          "startPos": 1,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "publicar en twitter",
+      "intent": "CompartirFoto",
+      "entities": [
+        {
+          "entity": "Me gustaría",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "imprimir esta imagen",
+      "intent": "OrdenarFoto",
+      "entities": [
+        {
+          "entity": "Me gustaría",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "me gustaría ordenar impresiones\",",
+      "intent": "OrdenarFoto",
+      "entities": []
+    },
+    {
+      "text": "ordenar carteras",
+      "intent": "OrdenarFoto",
+      "entities": [
+        {
+          "entity": "Me gustaría",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    }
+  ]
+}

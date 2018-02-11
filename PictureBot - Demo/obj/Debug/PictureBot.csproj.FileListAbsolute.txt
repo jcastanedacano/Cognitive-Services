@@ -1,0 +1,57 @@
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Bot Application.dll.config
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Bot Application.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Bot Application.pdb
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Autofac.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Chronic.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Azure.Search.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Spatial.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Newtonsoft.Json.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.Net.Http.Formatting.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.Web.Http.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.Web.Http.WebHost.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Autofac.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Azure.Search.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.Spatial.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\Newtonsoft.Json.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.Net.Http.Formatting.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.Web.Http.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\System.Web.Http.WebHost.xml
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\obj\Debug\PictureBot.csprojResolveAssemblyReference.cache
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\obj\Debug\PictureBot.csproj.CoreCompileInputs.cache
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\obj\Debug\Bot Application.dll
+C:\Users\xorxe\Desktop\Chat Bot\PictureBot\obj\Debug\Bot Application.pdb

@@ -1,3 +1,0 @@
-Readme
-Bot tiene BotID únicos, MicrosoftAppID y MicrosoftAppPassword cada vez que publiques a botframework.com, viene con los ajustes predeterminados como abajo. con el fin de probar en su emulador de bot que necesita para asegurarse de BotID, MicrosoftAppID y MicrosoftAppPassword están bien.
-<a href="/MicrosoftTranslator/BotTranslator/blob/master/ScreenShots/VSBotWebConfig.png" target="_blank"><img src="/MicrosoftTranslator/BotTranslator/raw/master/ScreenShots/VSBotWebConfig.png" alt="" style="max-width:100%;"></a>

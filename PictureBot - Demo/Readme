@@ -1,0 +1,2 @@
+Readme
+Bot has unique BotID, MicrosoftAppID and MicrosoftAppPassword whenever you publish to botframework.com, it comes with default settings like below. in order to test in your bot emulator you need to make sure BotID, MicrosoftAppID and MicrosoftAppPassword are ok.

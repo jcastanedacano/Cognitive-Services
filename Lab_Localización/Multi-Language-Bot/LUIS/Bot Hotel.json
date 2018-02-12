@@ -1,0 +1,123 @@
+{
+  "luis_schema_version": "2.1.0",
+  "versionId": "0.1",
+  "name": "Bot Hotel",
+  "desc": "Consultas de Servicios",
+  "culture": "es-es",
+  "intents": [
+    {
+      "name": "Adiós"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "Piscina"
+    },
+    {
+      "name": "Restaurante"
+    },
+    {
+      "name": "Saludo"
+    },
+    {
+      "name": "Ubicación"
+    },
+    {
+      "name": "Wifi"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "hola",
+      "intent": "Saludo",
+      "entities": []
+    },
+    {
+      "text": "hasta luego",
+      "intent": "Adiós",
+      "entities": []
+    },
+    {
+      "text": "oye",
+      "intent": "Saludo",
+      "entities": []
+    },
+    {
+      "text": "adiós",
+      "intent": "Adiós",
+      "entities": []
+    },
+    {
+      "text": "hay una psicina",
+      "intent": "Piscina",
+      "entities": []
+    },
+    {
+      "text": "tienes una piscina",
+      "intent": "Piscina",
+      "entities": []
+    },
+    {
+      "text": "¿tienes un restaurante?",
+      "intent": "Restaurante",
+      "entities": []
+    },
+    {
+      "text": "¿hay un restaurante en el hote?",
+      "intent": "Restaurante",
+      "entities": []
+    },
+    {
+      "text": "¿dónde está ubicado el hotel?",
+      "intent": "Ubicación",
+      "entities": []
+    },
+    {
+      "text": "¿está el hotel lejos de la ciudad?",
+      "intent": "Ubicación",
+      "entities": []
+    },
+    {
+      "text": "¿dónde estás ubicado?",
+      "intent": "Ubicación",
+      "entities": []
+    },
+    {
+      "text": "¿estás ubicado en la ciudad?",
+      "intent": "Ubicación",
+      "entities": []
+    },
+    {
+      "text": "¿qué tan lejos de la ciudad está el hotel?",
+      "intent": "Ubicación",
+      "entities": []
+    },
+    {
+      "text": "¿hay wifi?",
+      "intent": "Wifi",
+      "entities": []
+    },
+    {
+      "text": "¿tienes wifi?",
+      "intent": "Wifi",
+      "entities": []
+    },
+    {
+      "text": "¿tienes internet?",
+      "intent": "Wifi",
+      "entities": []
+    },
+    {
+      "text": "¿tenemos internet incluido?",
+      "intent": "Wifi",
+      "entities": []
+    }
+  ]
+}
